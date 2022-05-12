@@ -19,6 +19,11 @@ All mental process are happening together. Signal multiple sourcesso the goal is
         
         
   ## Source separation via Filtering
-        -Temporal Filtering :OrigionalSignal*Kernel=Filtered Signal - over time for one channel
-        -Spatial Filtering : W<sup>t *X over space for all channel at one time point
-Filtering 
+   #### Temporal Filtering :OrigionalSignal*Kernel=Filtered Signal - over time for one channel
+   ####  Spatial Filtering : W^T*X; over space for all channel at one time point
+-Temporal filtering is almost same as spectral filtering.
+-Perfect source separration is not possible -mixed in spectrum
+Source separation is based on the assumption that those sources has differemnt signature in the spectrum 
+
+
+`Notes are based on https://youtu.be/ukjuFUghieg 
