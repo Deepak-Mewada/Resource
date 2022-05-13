@@ -111,20 +111,27 @@ Similar kind of patterns of electrical temporsal activity at many spatial scale 
 
 ## Prepocessing vs Processing(Analyzing)
 Preprocessing  is everything that you have to do to the data in order to get to the point where you can start to actually process or analyze the data.   
+![image](https://user-images.githubusercontent.com/61898308/168257959-c622df84-3395-4156-a323-cada39cf4f77.png)
 
-Proprocessiing : Time consuming,tedious, Not Science, probably not fun. Do it well- do it once   
-Processing: Hypothesis driven, Exploratory, The meat of science, Hopefully lots of fun, Often done multiple times.  
+#### Proprocessiing : Time consuming,tedious, Not Science, probably not fun. Do it well- do it once   
+#### Processing : Hypothesis-driven, Exploratory, The meat of science(real sceince), Hopefully lots of fun, Often done multiple times.  
 
-### Possible preprocessing steps
-    import data into MATLAB
-    high-pass filter(e.g, 5hz)
-    import channel locations
-    referencew EOG,ECG<EMG
-    Epoch data around important events
-    Subtract pre-stimulus baseline
-    Adjust marker values
-    Manual trial rejection
-    Mark bbad electrodes
-    Average reference EEG channels
-    RUN ICA to clean data
- 
+## Possible preprocessing steps
+![image](https://user-images.githubusercontent.com/61898308/168261390-1b5e7a25-a1ca-45c3-9601-b1ad7a46a368.png)
+
+Ispiration-can be modidied according to study  
+
+        -Import data into MATLAB   
+        -High-pass filter(e.g, 0.5 Hz)   
+        -Import channel locations   
+        -Referencew EOG,ECG<EMG   
+        -Epoch data around important events : 3D- Time, channel, epochs     
+        -Subtract pre-stimulus baseline : eg.subtract avg voltage potential from each elexctord-all trial in same     
+        -Adjust marker values : when specific event happenedcategorise, highlys tudy specific     
+        -Manual trial rejection : reject trial with bad data-look at data is important
+        -Mark bad electrodes :   noisy or broken electrodes 
+        -Average reference EEG channels : head electrode,avoid single reference electrode,do after marking bad electrode  
+        -RUN ICA to clean data    
+        
+ *Notes based on  https://youtu.be/JMB9nZNGVyk?list=PLn0OLiymPak0t1moK3sn4Sl1seXlEOPHT
+ ----------------------------------------------------------------------
