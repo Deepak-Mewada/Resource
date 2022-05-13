@@ -99,6 +99,7 @@ Similar kind of patterns of electrical temporsal activity at many spatial scale 
 4.High temporal precision and resolution -can be good when when we know excatly when that process happened;  
 -However while studying slower cognitive process we don't know excatly when that process happened -read para and come up with hypothesis-  
 -excatly we dont know when they come up with hypothesis excatly at what time point - we don't know when that cognititve process happened     
+ -Therefor temporal precision is a disadvantage
  
 * Notes based on https://youtu.be/Bmt89hHyxuM
 ------------------------------------
@@ -110,8 +111,8 @@ Similar kind of patterns of electrical temporsal activity at many spatial scale 
 
 ## Prepocessing vs Processing(Analyzing)
 Preprocessing  is everything that you have to do to the data in order to get to the point where you can start to actually process or analyze the data.   
-Proprocessiing : Time consuming,tedious, Not Science, probably not fun. Do it well- do it once   
 
+Proprocessiing : Time consuming,tedious, Not Science, probably not fun. Do it well- do it once   
 Processing: Hypothesis driven, Exploratory, The meat of science, Hopefully lots of fun, Often done multiple times.  
 
 ### Possible preprocessing steps
