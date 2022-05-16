@@ -166,7 +166,7 @@ Ispiration-can be modidied according to study
 - This is done based on interpolation : assumption voltage value changes smoothly from one data point to another datapoint
 - If we had measured data there how it would have been?
 - These two maps from exactly same data just at two time points : Guess what was happening in both the experiments?
-- 1st : Subject saw a visual stimuli is shown on computer screen then visula cortex litup
+- 1st : Subject saw a visual stimuli is shown on computer screen then visual cortex litup
 - 2nd : 
 
      
