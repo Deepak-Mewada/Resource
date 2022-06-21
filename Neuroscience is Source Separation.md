@@ -87,28 +87,28 @@ Similar kind of patterns of electrical temporsal activity at many spatial scale 
 ![image](https://user-images.githubusercontent.com/61898308/168240115-a705704e-bfd2-49bb-8406-0de89a9da468.png)
 
 1.Limited to large-scale potentials : can't study the activity of singal neurons  
-- Many computation happening at a spatial scale that is too small to read by EEG 
-- Electrical fields from geomatrically opposing dipoles cancel out leading to zero change in voltage that you can measure with EEG
+        - Many computation happening at a spatial scale that is too small to read by EEG 
+        - Electrical fields from geomatrically opposing dipoles cancel out leading to zero change in voltage that you can measure with EEG
 2.Uncertainiites in anatomical localization 
 ![image](https://user-images.githubusercontent.com/61898308/168241693-89af5dac-8abd-40af-89e3-cdd720da8d71.png)
-- Not measuring electrical activity directly spatially directly from the brain it is electrical activity coming from the brain but we measure it from the outside.
-- Where does in the brain these EEG signal come from? Mathematical ways
+        - Not measuring electrical activity directly spatially directly from the brain it is electrical activity coming from the brain but we measure it from the       outside.
+        - Where does in the brain these EEG signal come from? Mathematical ways
 ![image](https://user-images.githubusercontent.com/61898308/168241756-89aea85c-0978-4679-9933-66bf39abe6eb.png)
-- There are lot of uncertainities in these localization.
-- there are already so much rich info in temporal,spectral,and spatial information in EEG that we no need to necesarilly need to estimate the physically location of  the brain signal     
+        - There are lot of uncertainities in these localization.
+        - There are already so much rich info in temporal,spectral,and spatial information in EEG that we no need to necesarilly need to estimate the physically location of  the brain signal     
 
 3. Data(mdim,noises),analysis,and analysis, and visualization are complicated,time-consuming,and annoying        
 4. High temporal precision and resolution -can be good when when we know excatly when that process happened;    
-- However while studying slower cognitive process we don't know excatly when that process happened -read para and come up with hypothesis-  
-- excatly we dont know when they come up with hypothesis excatly at what time point - we don't know when that cognititve process happened     
- - Therefor temporal precision is a disadvantage
+        - However while studying slower cognitive process we don't know excatly when that process happened -read para and come up with hypothesis-  
+        - excatly we dont know when they come up with hypothesis excatly at what time point - we don't know when that cognititve process happened     
+        - Therefor temporal precision is a disadvantage
  
 * Notes based on https://youtu.be/Bmt89hHyxuM
 ------------------------------------
 
-# Overview of Possibole Preprocessing Steps  
-- A list of possible steps of preprocessing electrophysiology data  
-- Multiple reminders that data preprocessing is often data-,study-,and lab-specific.  
+# Overview of Possible Preprocessing Steps  
+        - A list of possible steps of preprocessing electrophysiology data  
+        - Multiple reminders that data preprocessing is often data-,study-,and lab-specific.  
 
 
 ## Prepocessing vs Processing(Analyzing)
