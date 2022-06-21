@@ -15,7 +15,7 @@ Source separation as diagram:- True Sources (Latent constructs) -> Sensosrs (man
         Not the inferential statistics i.e p-value or F-value but descriptive statistics i.e variance,covariance,spectral features.  
         Statisctical source separation that leads to temporal or spectral and spatial source separation.  
         Statistical source separation is all about applying filters to the data.  
-        This course is all about "temporal filter9ing"
+        This course is all about "temporal filtering"
         
   ## Source separation via Filtering
   ![image](https://user-images.githubusercontent.com/61898308/168231517-ce0ed4b0-d5a9-42ae-81d9-6acee3a7b7e0.png)
@@ -23,7 +23,7 @@ Source separation as diagram:- True Sources (Latent constructs) -> Sensosrs (man
    #### Temporal Filtering : fig- OrigionalSignal * Kernel = Filtered Signal ; over time for one channel
    ####  Spatial Filtering : W^T * X ->analysis -> results; over space for all channel at one time point,
    SF instead of taking the time series from one single electrode and weighting time points over time 
-      we are computing the spatial filter at each time point so we have each individual channel multipolied by a weight and then we sum up over all thge channel.
+      we are computing the spatial filter at each time point so we have each individual channel multiplied by a weight and then we sum up over all those channel.
 - Temporal filtering is almost same as spectral filtering.
 
 ### Assumption for Spectral separation
@@ -32,7 +32,7 @@ Source separation as diagram:- True Sources (Latent constructs) -> Sensosrs (man
 graph - Power vs frequency
 - slow frequency low fluctuations in signal ,fast frequency -high fluctuation in signal
 - Perfect source separration is not possible -mixed in spectrum(10-18 hz)
-Source separation is based on the assumption that those sources has differemnt signature in the spectrum 
+Source separation is based on the assumption that those sources has different signature in the spectrum 
 
 
 *`Notes are based on https://youtu.be/ukjuFUghieg `
@@ -46,9 +46,9 @@ Source separation is based on the assumption that those sources has differemnt s
 
 ## What do EEG data look like 
 ![image](https://user-images.githubusercontent.com/61898308/168232819-90937763-9047-4714-a2e4-92c2cd206a6e.png)
-- Volatage activity from population of nbeurons
-- some poattern of activity are comnsistent across electrodes
-- very often with EEG if you see unique activity on 1 electrode that you don;t see on any other electrode it's probably some noise contamination
+- Volatage activity from population of neurons
+- Some pattern of activity are comnsistent across electrodes
+- Very often with EEG if you see unique activity on 1 electrode that you don't see on any other electrode ->it's probably some noise contamination
 - Person looking at screen various things are happenings:picture appear,button press
 
 ## Origin of the existence of EEG
@@ -58,8 +58,8 @@ Only if thousands of cells contribute thier small voltage is the signal large en
 ## Origin of the content of EEG
 ![image](https://user-images.githubusercontent.com/61898308/168234128-39d03393-1e7b-48ad-805c-b31307314ebe.png)
 Every lines ups and down in EEG signal shows instatntaneous activity of population of cells. 
-- We have a good understanding of why EEG exists. That's not we are ointerested in neuroscientist,psychologist,
-- What we are interested in is what these signals mean-wnot here exactly thye come from
+- We have a good understanding of why EEG exists. That's not we are interested as neuroscientist,psychologist,
+- What we are interested in is what these signals mean-not where exactly they come from
 - There is information that's computated in brain and that manifests as this volatge fluctuation in EEG signal
 - Cognition,thinking,memories and perception and so on doesn't come from these large wiggles(signal) like these.
 - Cognition is actually coming from the really complext dynamic interaction between different brain cell,regions,layers
@@ -71,7 +71,7 @@ Every lines ups and down in EEG signal shows instatntaneous activity of populati
 1.Direct meausre of electrical brain activity  
 2.Temporal resolution and pricision match the speed of cognition(faster than 1 data point every millisecond) : 
         -Cognition happens at the speed of 10's of milli sec to 100's of mili sec to a few sec
-        -So we have brain measurement method that can measure the brain at the same speed as cognition occures
+        -So we have brain measurement method that can measure the brain at the same speed as cognition occures   
 3.Richness of the data allow for physiologically inspired analyses(oscillation,synchronization,connectivity,complexity/scale-free)   
 -Extremly rich there are a lot of information that is packed in the EEG signals and this allows for many kind of analysis physiologoically inspired analyssis to be performed on the data    
 4.Link finding across scales/different spatial & temporal scales/diff methods/diff species :   
