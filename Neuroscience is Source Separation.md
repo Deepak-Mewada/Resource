@@ -66,21 +66,21 @@ Every lines ups and down in EEG signal shows instatntaneous activity of populati
 
 *Existence of EEG is reletively well known but the content of EEG signal is really unknown. In order to understand the content we need to analyses EEG appropriately.
 
-## Advajntages of EEG
+## Advantages of EEG
 ![image](https://user-images.githubusercontent.com/61898308/168236213-48a26b3c-ba05-423f-aaa1-ae435d71ca08.png)
 1.Direct meausre of electrical brain activity  
 2.Temporal resolution and pricision match the speed of cognition(faster than 1 data point every millisecond) : 
         -Cognition happens at the speed of 10's of milli sec to 100's of mili sec to a few sec
         -So we have brain measurement method that can measure the brain at the same speed as cognition occures   
 3.Richness of the data allow for physiologically inspired analyses(oscillation,synchronization,connectivity,complexity/scale-free)   
--Extremly rich there are a lot of information that is packed in the EEG signals and this allows for many kind of analysis physiologoically inspired analyssis to be performed on the data    
+-Extremly rich there are a lot of information that is packed in the EEG signals and this allows for many kind of analysis physiologically inspired analyssis to be performed on the data    
 4.Link finding across scales/different spatial & temporal scales/diff methods/diff species :   
 ![image](https://user-images.githubusercontent.com/61898308/168238893-61eaed76-f445-4ec7-9c9e-9075e12a1299.png)
 Similar kind of patterns of electrical temporsal activity at many spatial scale of the universe of the brain -invidual neurons to cordinated activity of cells  
 ![image](https://user-images.githubusercontent.com/61898308/168238927-33e3de35-328d-4d6f-9635-fd74789dc675.png)  
-- Electrical activity are conssistent across different shape of brain   
+- Electrical activity are consistent across different shape of brain   
 - We can measures gamma bends oscillation in human cats mice insects   
-- honey bees have tiny brain brain exibit temporal patterns of electrical activity that seems to be really similar to ther pattern of electrical activity that we can measure in human.  
+- honey bees have tiny brain exibit temporal patterns of electrical activity that seems to be really similar to the pattern of electrical activity that we can measure in human.  
 - We can access and study those consistent feature across evolution using electrophisiology.  
 
 ## Disadvantages of EEG
@@ -91,13 +91,14 @@ Similar kind of patterns of electrical temporsal activity at many spatial scale 
 - Electrical fields from geomatrically opposing dipoles cancel out leading to zero change in voltage that you can measure with EEG
 2.Uncertainiites in anatomical localization 
 ![image](https://user-images.githubusercontent.com/61898308/168241693-89af5dac-8abd-40af-89e3-cdd720da8d71.png)
-- Not measuring electrical activity directly spatially directly from the brain it is electrical activity coming from the brain but we mesure it from the outside.
-- Where does in the brain these EEg signal come from? Mathematical ways
+- Not measuring electrical activity directly spatially directly from the brain it is electrical activity coming from the brain but we measure it from the outside.
+- Where does in the brain these EEG signal come from? Mathematical ways
 ![image](https://user-images.githubusercontent.com/61898308/168241756-89aea85c-0978-4679-9933-66bf39abe6eb.png)
 - There are lot of uncertainities in these localization.
-- there are already so much rich info in temporal,spectral,and spatial information in EEG that we no need to necesarilly need to estimate the physically location of  the brain signal  
- 3.Data(mdim,noises),analysis,and analysis, and visualization are complicated,time-consuming,and annoying      
-4.High temporal precision and resolution -can be good when when we know excatly when that process happened;  
+- there are already so much rich info in temporal,spectral,and spatial information in EEG that we no need to necesarilly need to estimate the physically location of  the brain signal     
+
+3. Data(mdim,noises),analysis,and analysis, and visualization are complicated,time-consuming,and annoying        
+4. High temporal precision and resolution -can be good when when we know excatly when that process happened;    
 - However while studying slower cognitive process we don't know excatly when that process happened -read para and come up with hypothesis-  
 - excatly we dont know when they come up with hypothesis excatly at what time point - we don't know when that cognititve process happened     
  - Therefor temporal precision is a disadvantage
