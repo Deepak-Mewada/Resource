@@ -131,7 +131,7 @@ Prisoner only saw shadow so considered shadow as reality.... friends not heard h
 LAYERS OF REALITY !
 Plato wants us to see that we, right now , are prisoners in a cave. Everything in our world is actually a mere shadow of a higher reality.  as they mistook shadowe as real thing.   
 Our mistake is thinking that the material objects of the ordinary world are the most real things.  
-PLato shaid , the physical world that we think is the most real, is actually a mere shadow of a higher truth.  
+PLato shaid , the physical world that we think is the most real, is actually a mere shadow of a higher truth(ultimate reality).  
 
 *Doing Philosophy is Hard! (make U uncomfortable)
 *Philosophy is also awesome. (can see though things,feel amzed)
@@ -139,10 +139,97 @@ PLato shaid , the physical world that we think is the most real, is actually a m
     
       
  # Cartesian Skepticism - Neo, Meet Rene: Crash Course Philosophy #5     
- RENE Descartes  : 17th century Mathematician.    
-SKEPTIC : A person who _Questions_ whether _Anything_ can be known with _Certainity_.
+ RENE Descartes  : 17th century early modern philosophers,scientist & Mathematician.    
+ HOw-do-I-know-what-I-know.
+ SKEPTIC : A person who _Questions_ whether _Anything_ can be known with _Certainity_.
+ RENE said: disbelief anything.(to make sure not holding anything wrong)
+ RENE says : _IF he exemined each possible belief carefully, and only accepted those about which there could be no doubt, then he'd know he was only believing true    things.
+  
+ CARTESIAN SKEPTICISM: He realised that many belief he had was false. 
+ 
+ ## EMPIRICAL BELIEF :Beliefs that we form through the use of our senses.
+ Many believe that our senses are real sources of information. If I can see,hear,smell,taste,touch it, I must know it. -> Sense are not aleways true : Dream
+ LOCAL DOUBTS : Doubts about a particular sense experience, or some other occurance at a particular point in time.
+ GLOBAL DOUBT : The type of doubt that you can't step out of, and thus can't check,is called global doubt.
+      
+ REDICAL SKEPTICISM : in which we really can't trust any of our belief.     
+ _Every thing we believe,every sese experience,every thought,they could all have been put in our minds by the evil genious who created an illusionary world so seamless,we'd haave no way of detecting the illusion._
+ 
+   
+ RENE DESCARTES : MEditation on First Philosophy
+ His Foundational belief : _COGITO RGO SUM_ : "I think,therfore I am"  : I can doubt anything but I can't doubt I am bare minimum,a mind having thoughts.
+ His CLEAR AND DISTINCT IDEA : "God Exist"   
+ later said physical world too exist.     
+   
+# Locke, Berkeley, & Empiricism: Crash Course Philosophy #6
+will learn EMPRICISM as a response of SLEPTICISM
+Spilit in two different understanding...
+### RESPONSE OF SKEPTICISM :- 
+1. RATIONALISM : Belief that reason is the most reliable source of knowledge. 
+2. EMPIRICISM : Belief that sense-experience is the most reliable source of knowledge.  
+
+Descartes,like Plato long before him,was a lover of reason. He met skeptism with rationalism. 
+He believed that most real things in life were ideas.
+IDEAS--__Propositions that can be known through pure reason.
+     
+Induction and ways of scientific method - ways of thinking that tell us about the material world.
+
+ ## PLato vs Aristotle
+ Plato was convinced that truth resided in the immaterial world of ideas,while Aristotle's attention was focused firmly on the ground. 
+
+ JOHN LOCKE : Locke believed that we're all born as a blank slate.  All knowledge is obtained through experience. He rejected the concept of innate ideas - the view that we're born pre-loaded with certain informatiojn what's good and what' bad.
+ 
+ __"_we are born knowing nothing, NAd instead ,all our knowledge comes to us through sense data."
+ 
+ One place Lock agreed with Descartes was in the idea that, just beacuse your senses telling you something that doesn't mean you can trust something.
+
+In order to figure out wether the seses accurately reflect the outside world, he introduced a distinction ehat he called the primary and secondary qualities of all things.
+
+PRIMARY QUALITIES : Qualities that physical objects themselves have.  (nothing to do with U or me.just to with object)
+Not in our mind (mass,desity,figure,shape,solidity,depth,weight,width,mobility),belongs to thing itself.
+SECONDARY QUALITIES : color,taste,smell,sound,texture  
+ 
+__The distinctiuon between primary and secondary qualities explained the disagreements that we all have about our perceptions of the outside world.__
+
+GEORGE BEKELEY : irish philosopher resonated with above,
+_There's no such thing as matter. There can't be! instead,there's only Perceptions._  
+his version of cogito - __ESSE EST PERCEPI__ _to be is to be perceived_.
+
+Learnt why George Berkeley thinks that distinction ultimately falls apart.
+
+
+# The Meaning of Knowledge: Crash Course Philosophy #7
+Know,Believe, Proposition,Justification
+_Is having Knowledge of something the same thing as being....Correct?
+*If you belive something to be true and it is true does it matter if you belief in it is justified?
+*Can you be right about something without really trying?
+
+  
+  
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
