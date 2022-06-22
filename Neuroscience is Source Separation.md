@@ -88,20 +88,20 @@ Similar kind of patterns of electrical temporsal activity at many spatial scale 
 
 1.Limited to large-scale potentials : can't study the activity of singal neurons  
         - Many computation happening at a spatial scale that is too small to read by EEG 
-        - Electrical fields from geomatrically opposing dipoles cancel out leading to zero change in voltage that you can measure with EEG
+        - Electrical fields from geomatrically opposing dipoles cancel out leading to zero change in voltage that you can measure with EEG   
 2.Uncertainiites in anatomical localization 
 ![image](https://user-images.githubusercontent.com/61898308/168241693-89af5dac-8abd-40af-89e3-cdd720da8d71.png)
         - Not measuring electrical activity directly spatially directly from the brain it is electrical activity coming from the brain but we measure it from the       outside.
         - Where does in the brain these EEG signal come from? Mathematical ways
 ![image](https://user-images.githubusercontent.com/61898308/168241756-89aea85c-0978-4679-9933-66bf39abe6eb.png)
         - There are lot of uncertainities in these localization.
-        - There are already so much rich info in temporal,spectral,and spatial information in EEG that we no need to necesarilly need to estimate the physically location of  the brain signal     
+        - There are already so much rich info in temporal,spectral,and spatial information in EEG that we no need to necesarilly estimate the physically location of  the brain signal     
 
 3. Data(mdim,noises),analysis,and analysis, and visualization are complicated,time-consuming,and annoying        
 4. High temporal precision and resolution -can be good when when we know excatly when that process happened;    
         - However while studying slower cognitive process we don't know excatly when that process happened -read para and come up with hypothesis-  
         - excatly we dont know when they come up with hypothesis excatly at what time point - we don't know when that cognititve process happened     
-        - Therefor temporal precision is a disadvantage
+        - Therefore temporal precision is a disadvantage
  
 * Notes based on https://youtu.be/Bmt89hHyxuM
 ------------------------------------
@@ -121,15 +121,15 @@ Preprocessing  is everything that you have to do to the data in order to get to 
 ## Possible preprocessing steps
 ![image](https://user-images.githubusercontent.com/61898308/168261390-1b5e7a25-a1ca-45c3-9601-b1ad7a46a368.png)
 
-Ispiration-can be modidied according to study  
+Inspiration-can be modified according to study  
 
         -Import data into MATLAB   
         -High-pass filter(e.g, 0.5 Hz)   
         -Import channel locations   
-        -Referencew EOG,ECG<EMG   
+        -Reference EOG,ECG<EMG   
         -Epoch data around important events : 3D- Time, channel, epochs     
-        -Subtract pre-stimulus baseline : eg.subtract avg voltage potential from each elexctord-all trial in same     
-        -Adjust marker values : when specific event happenedcategorise, highlys tudy specific     
+        -Subtract pre-stimulus baseline : eg.subtract avg voltage potential from each electord-all trial in same     
+        -Adjust marker values : when specific event happened categorise, highly study specific     
         -Manual trial rejection : reject trial with bad data-look at data is important
         -Mark bad electrodes :   noisy or broken electrodes 
         -Average reference EEG channels : head electrode,avoid single reference electrode,do after marking bad electrode  
@@ -143,12 +143,12 @@ Ispiration-can be modidied according to study
  ![image](https://user-images.githubusercontent.com/61898308/168262710-4b36299f-1695-4b20-a252-230b2c1a7740.png)
   -Artifact to worry anout and ignore  
   -visual based artifact rejection: look at data... big artifact and remove  
-  -ICA can help to remove srtifact like blink - without having to remove the data   
+  -ICA can help to remove artifact like blink - without having to remove the data   
   ![image](https://user-images.githubusercontent.com/61898308/168275635-6d71633e-3042-4423-b7ad-3b46123bc00c.png)
    ![image](https://user-images.githubusercontent.com/61898308/168282912-5dfb42e3-0339-47d1-b16a-bc2eeb4617f1.png)  
    Two kind or artifect: brief burst or long : may be muscle activity,scratch   
    -Wether to remove trial one - if study is all about frontal cortex processing you are not actually going to see data electrode from     back of head   
-   -run independent componenent analysis and see if ICA removes that componenet   
+   -Run independent componenent analysis and see if ICA removes that componenet   
    -F5 seems to be weird electrode - real brain activity+ noise: either completely remove or interpolate that component
                 another solution is to run ICA and see if ICA can remove this artifact alone- work sometimes and doesn't work sometime     
                 
@@ -160,17 +160,36 @@ Ispiration-can be modidied according to study
  - Various ways of visualizing data over space.
  - How to interpret topographical maps. 
  ![image](https://user-images.githubusercontent.com/61898308/168286437-842611b1-505a-464b-a5dc-9c3edc243d8c.png)
-- Two example of topographical map : looking down on womewons head
+- Two example of topographical map : like looking down on top of men head
 - Missing electrode
 - Allow richness in data
 - think to keep in mind : how can we draw a color if we don't have electrod at a place?
 - This is done based on interpolation : assumption voltage value changes smoothly from one data point to another datapoint
 - If we had measured data there how it would have been?
 - These two maps from exactly same data just at two time points : Guess what was happening in both the experiments?
-- 1st : Subject saw a visual stimuli is shown on computer screen then visual cortex litup
-- 2nd : 
+- 1st time point in Experiment(slide pic1) : Subject saw a visual stimuli is shown on computer screen then visual cortex litup
+- 2nd :  Subject made a response ..pressed a button..activity at sensory motor neuron
 
-     
+  ![image](https://user-images.githubusercontent.com/61898308/174740572-be7995c1-e332-4d2c-808d-36f199b98388.png)
+   -Topographical plots helps in many ways: to ocate defected electrod
+   
+  ![image](https://user-images.githubusercontent.com/61898308/174740846-250a7757-3816-4bf5-a239-651099dc2c9b.png)   
+  
+  ![image](https://user-images.githubusercontent.com/61898308/174742170-1a2f32c8-e8f6-4154-b52e-9e615d7734d3.png)  
+  A for Aural : around the ear
+  
+![image](https://user-images.githubusercontent.com/61898308/174742997-9a227c74-6219-4402-91c7-977cf110c2e2.png)
+256+2 electrode 
+
+ 
+   `Notes based on : https://youtu.be/2edwDBSPLFs`
+   
+   ---------------------------------------
+   
+   
+   
+    
+
    
    
 
