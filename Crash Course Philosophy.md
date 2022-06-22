@@ -200,10 +200,11 @@ Learnt why George Berkeley thinks that distinction ultimately falls apart.
 
 # The Meaning of Knowledge: Crash Course Philosophy #7
  |Know,Believe, Proposition,Justification |    
-_ Is having Knowledge of something the same thing as being....Correct?  
+* Is having Knowledge of something the same thing as being....Correct?  
 * If you belive something to be true and it is true does it matter if you belief in it is justified?  
 * Can you be right about something without really trying?  
-  
+
+An Assertion :  
   
   
 
