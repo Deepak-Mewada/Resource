@@ -199,15 +199,16 @@ Learnt why George Berkeley thinks that distinction ultimately falls apart.
 
 
 # The Meaning of Knowledge: Crash Course Philosophy #7
- |Know,Believe, Proposition,Justification |    
+ |Know,Believe, Proposition,Justification |    : Philosophers have lucid idea when they use these terms.  
 * Is having Knowledge of something the same thing as being....Correct?  
 * If you belive something to be true and it is true does it matter if you belief in it is justified?  
 * Can you be right about something without really trying?  
 
-An Assertion :  
-  
-  
-
+Either someone believe or he knows it.
+An Assertion :  A linguistic act - either spoken or written - That has a truth value
+Truth value : The statre of being either true, or false, or Inderminant.   
+Assert eg: cat will pee  
+Proposition :The content of your assertion. The underlying meaning of what you're saying.
 
 
 
