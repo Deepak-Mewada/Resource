@@ -239,17 +239,44 @@ Pooper argued
 * The only genuine test of a theory is one that's attempting to falsify it.
 * _Irrfeutable theory are not scientific. (if it can't be tested, than your theory doesn't have much value) 
 * Scientist : Let your belief to go - Accept the evidence. - Move on  
-* Modern scientific thinking accepted today |TESTABLE | REFUTABLE | FALSIFIABLE
+#### Modern scientific thinking accepted today  TESTABLE | REFUTABLE | FALSIFIABLE
 *  Pooper's knowledge was about PROBABILITY(justified in believing whatewerver seems more probable given our current data) & CONTINGENCY(aleways willing to revise our evidence in th elight of our current data) 
 *  _ You have to be open to the idea that your belief might be false Because that's the only way that holding onto them can really mean anything.
-*  
 
 
 
+# Anselm & the Argument for God: Crash Course Philosophy #9
+### PHILOSOPHY OF RELIGION vs THEOLOGY
+They both take god and religion as their subjects.
+But theology start by assuming that God exists, and then figures out what follows. Or theology might solve philosophical problem that might arise from belief in God.
+Philosophers has Everything on the table and everything need arguments.
 
+##### FAITH : Faith is definitionally unprovable,Which mnakes it from philosophical perspective, not valuable.
 
+### Philosophy of Religion is not:
+* Believing whatever your parents taught you.
+* The study of bible 
+* Religious Anthropology
+* Religious Sociology
+* Pyschological understanding of our reason for religious belief.
 
+### ANSELM OF CANTERBURY 
+-11th century french Monk
+-he offered a deductive argument for the existence of God, based on waht he understood to be the nature of God's being,or the definition of god.
 
+### Ontology : Study of being
+Ontological argument. 
+#### GOD : god is beat possible thing we can imagine. God is by definition thing we can image. No greater can be conceived.
+* Two ways something can Exist :
+* Something cam exist only in our minds and be strictly imaginary - like santa, or unicorn.
+* Or it can exist in our mind but also in reality, like pizza and horses - something that we can imagine, but that's also real. like pizaaa
+* _If we define god as the greatest thing that we can comjure up in our minds, the only thing that could possibly be greater tahn him would be... A Real version!
+* deductively proved god's existence  prune to error : God realy exist.
+
+#### IMMANUEL KANT : genrman Philospher
+* _EXISTENCE is not a PRIDICATE.
+* A predicate is something that's said of another object.
+* predicate add to the Essence of their Subject, but they can't be used to prove their existence.
 
 
 
