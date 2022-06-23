@@ -280,6 +280,91 @@ Ontological argument.
 
 
 
+# Aquinas & the Cosmological Arguments: Crash Course Philosophy #10
+THOMAS AQUINAS : italian theologian and philosopher encontered Anselm argument...
+
+## AQUINS' 5 arguments for the esxistence of God:
+1. Argument of motion
+2. Argument from Causation
+3. Argument from Contingency
+4. Argument from Degrees
+5. Teleological Argumnet
+First 4 are cosmological arguments(they seeks to prove god's existence).
+
+### 1. Argument of motion
+![image](https://user-images.githubusercontent.com/61898308/175286657-c6e621e6-039c-4016-9b0e-f6565c76b85a.png)
+Otherwise you migh have stuck
+![image](https://user-images.githubusercontent.com/61898308/175286763-7b68804d-bf79-497f-a4a4-8d0e5f783cca.png)
+![image](https://user-images.githubusercontent.com/61898308/175287079-0b56009d-adec-4ea9-ae70-42d062ffd1b9.png)
+
+
+### 2. Argument from Causation
+![image](https://user-images.githubusercontent.com/61898308/175287177-5ef73438-47c2-4ec8-917e-143422843067.png)
+It can't go back forever there has to be firat thing . That thing is God.
+
+### 3. Argument from Contingency
+![image](https://user-images.githubusercontent.com/61898308/175287821-cc6ac5e5-e2b5-48aa-a337-f660cf18c612.png)
+![image](https://user-images.githubusercontent.com/61898308/175287984-d3f1deb3-9a80-4c53-a38d-4199b4fb8dd9.png)
+
+### 4. Argument from Degrees
+![image](https://user-images.githubusercontent.com/61898308/175288234-824620f7-8e61-4d2e-a19c-262477ec619d.png)
+Unmoved movers & Unmoved Causers 
+_Aquinas' Cosmological arguments also don't prove that existence of a sentient god.(might be beared or egg)
+
+
+
+## Objection to Aquinas view
+* Aquinas was wrong in his insistence that there can't be an infinite progress of anything.
+* Aquinas takes it as a given that there had to be a starting oint for everything. Wether it's the movement of objects,or causes and effects, or contingent being created.
+But it's not clear it is true or why it is true. 
+* they are actually self defeating : 
+* If they can exist without god being responsible for them, then we don't need to establish things in the first place.
+*  None of his argument prove God but you should have counter argument.
+
+# Intelligent Design: Crash Course Philosophy #11
+Willian Paley : english christian philosopher
+### 5. Teleological Argument : Goal oriented - or purposefull
+
+#### Argument of Anology
+A --> B
+Cup --> Cup Maker
+Watch --> watch Maker
+World --> World Maker
+
+Counterargument : 
+How why It was : why blind spot? Nipple? No purpose.
+* Bodies are purposeful, and from there concludes that th purpose had to have been put there be an intelligent crerator. But another explaination is
+* Another explaination for how bodies came to have the complexity and functiuonality they have today, is natural selection and random mutation.
+* Who need a watchmaker when we had natural selection.
+* _A flawewd world mean a flawed creater.
+* RICHARD SWINBURNE :"Even if there's another possible explainantion for the universe,we should go with the explaination that's most likely to be true."
+* "IT's simply more probable that God desigened the world,than that it came about through the pure chance of evolutionary processes."
+
+ 
+# What Is God Like?: Crash Course Philosophy #12
+Philkosophers AGUSTINE and AQUINAS insluenced by writing ARISTOTLE said about God
+![image](https://user-images.githubusercontent.com/61898308/175315420-e33c8fd1-4659-499f-b826-6de7aa3b0869.png)
+Counterargument
+![image](https://user-images.githubusercontent.com/61898308/175315901-156db394-3551-4db3-a44e-3a93067b8f35.png)
+* If god know everything than he he sgould oknow future
+* iF WE HAVE free will IS IT FREE?
+ ![image](https://user-images.githubusercontent.com/61898308/175316098-ffebd6d2-c067-483b-a987-ab1dba496dd4.png)
+### Best contradiction
+![image](https://user-images.githubusercontent.com/61898308/175316420-6af107cb-9c81-4251-8dce-e45207ddfc1f.png)
+
+* Can God Sin? (so not able to somthing)
+
+![image](https://user-images.githubusercontent.com/61898308/175319156-fe8a1eb1-2a02-4c09-a796-9dc7551b71a5.png)
+![image](https://user-images.githubusercontent.com/61898308/175319216-101032d2-0632-4f5f-b7b0-999d4dd6981e.png)
+
+Conclusion
+![image](https://user-images.githubusercontent.com/61898308/175319725-29186cc1-1834-4171-b6a3-6f9070ef870d.png)
+![image](https://user-images.githubusercontent.com/61898308/175319768-b9071899-acf6-49c4-b578-0b2130dbaac6.png)
+![image](https://user-images.githubusercontent.com/61898308/175319615-0d2a8a8c-a15e-45bf-b743-a7755c8e06b8.png)
+
+Not to worry because all of this is speculation! he can be a superhero.
+
+AQUINPOS ideas of anological predication!
 
 
 
@@ -290,5 +375,3 @@ Ontological argument.
 
 
 
-
-     
