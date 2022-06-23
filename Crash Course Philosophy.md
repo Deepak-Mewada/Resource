@@ -199,20 +199,50 @@ Learnt why George Berkeley thinks that distinction ultimately falls apart.
 
 
 # The Meaning of Knowledge: Crash Course Philosophy #7
- |Know,Believe, Proposition,Justification |    : Philosophers have lucid idea when they use these terms.  
+ |Know, Believe, Proposition,Justification |    : Philosophers have lucid idea when they use these terms.  
 * Is having Knowledge of something the same thing as being....Correct?  
 * If you belive something to be true and it is true does it matter if you belief in it is justified?  
 * Can you be right about something without really trying?  
 
 Either someone believe or he knows it.
 An Assertion :  A linguistic act - either spoken or written - That has a truth value
-Truth value : The statre of being either true, or false, or Inderminant.   
+Truth value : The stateof being either true, or false, or Inderminant.   
 Assert eg: cat will pee  
-Proposition :The content of your assertion. The underlying meaning of what you're saying.
+Proposition :The content of your assertion. The underlying meaning of what you're saying. Eg. Tihs is a cat.
+Propositional Attitude : Propositional attitude of Belief prsitional attitude of disbelif.
 
+### Knowledge : JUSTIFIED | "TRUE" | BELIEF 
+JUSTIFICATION : Evidence, or Other support, for your belief. Eg, _Testimony from expert can be reliable;_first person experience
 
+* You can have a false belief but you can't have false knowledge. 
+ 
+GETTIER CASES : Situations in which one can have Justified True Belief, but Not-Knowledge.
 
-
+   
+   
+# Karl Popper, Science, & Pseudoscience: Crash Course Philosophy #8
+Mad edifference between Science and Psudo Science.
+ Freud and Eisntein both beileved that their predictrion will help to understand Universe.
+ * _Freud, concerned with the individual pysche,predicted that our childhood experience would have aheavy bearing on who we grew up to be.
+ * Fopper saw about Einstein that Instead of looking backward, and using past data to "predict" the present,he was looking ahead, and predicting future states of affairs.
+ * Greek relied on the belief that, _The traditional understanding of the scientific method: to look at the world with a scientific eye is to observe with no preconceived notions.  
+ * Pooper believed: _Method like this[freud] that only served to confirm belief were Psudo-Science. And they could be used to prove anything.  
+ * But It's only by seeing to disprove Santa's existence that you can demonstarte his unrerality.    
+ * When we begin to test a theory, are we looking to confirm it, or to disconfirm it?  
+   
+ ### Science Disconfirms | Pdudoscience Confirms
+Pooper argued
+* It's easy to find confirmation of a theory If you're looking for it. Eg. Santa's Existence   
+* RISKY PRIDICTION: Confirmation should only counts if it comes with some risky prediction.  
+* Every good scientific theory is PROHIBITIVE (it rules things out).  
+* _Every false belief we discover is actually good,Because thats gets us that much closer to believeing only true things.  
+* The only genuine test of a theory is one that's attempting to falsify it.
+* _Irrfeutable theory are not scientific. (if it can't be tested, than your theory doesn't have much value) 
+* Scientist : Let your belief to go - Accept the evidence. - Move on  
+* Modern scientific thinking accepted today |TESTABLE | REFUTABLE | FALSIFIABLE
+*  Pooper's knowledge was about PROBABILITY(justified in believing whatewerver seems more probable given our current data) & CONTINGENCY(aleways willing to revise our evidence in th elight of our current data) 
+*  _ You have to be open to the idea that your belief might be false Because that's the only way that holding onto them can really mean anything.
+*  
 
 
 
