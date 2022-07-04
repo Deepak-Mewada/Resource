@@ -366,6 +366,18 @@ Not to worry because all of this is speculation! he can be a superhero.
 
 AQUINPOS ideas of anological predication!
 
+-----------------------------------------
+
+
+
+
+
+
+
+
+
+
+
 
 
 
